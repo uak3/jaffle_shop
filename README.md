@@ -1,10 +1,7 @@
 ## dbt models for `jaffle_shop`
 
-<<<<<<< HEAD
-look at this merge conflict
-=======
 this is my merge conflict
->>>>>>> d9413f5bd41bfed412495c847feb56108b77da86
+
 
 `jaffle_shop` is a fictional ecommerce store. This dbt project transforms raw
 data from an app database into a customers and orders model ready for analytics.
